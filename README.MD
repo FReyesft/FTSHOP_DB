@@ -1,2 +1,2 @@
 # FIRST STRUCTURE VERSIÓN DATABASE
--- https://drawsql.app/teams/freyesft/diagrams/ft-shop-db
+-- v1.0.0 https://drawsql.app/teams/freyesft/diagrams/ft-shop-db
